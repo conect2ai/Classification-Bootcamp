@@ -31,7 +31,7 @@ O objetivo deste material é guiar os participantes através de um projeto compl
 
 A maneira mais fácil de executar o notebook é utilizando o **Google Colaboratory**, que não exige nenhuma instalação na sua máquina.
 
-### 🔗 Notebook: [Prática de Classificação](https://colab.research.google.com/github/SEU_USUARIO/SEU_REPOSITORIO/blob/main/Pratica_Classificacao.ipynb)  
+### 🔗 Notebook: [Prática de Classificação](https://colab.research.google.com/github/conect2ai/Classification-Bootcamp/blob/main/Notebook/MultiLabel_Classification_Classical_Models.ipynb)  
 
 ---
 
