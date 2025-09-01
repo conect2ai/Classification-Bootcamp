@@ -59,7 +59,7 @@ O notebook **MultiLabel\_Classification\_Classical\_Models.ipynb** é dividido e
 O projeto utiliza o dataset **Steel Industry Energy Consumption** do repositório da **UCI**.
 Ele contém medições de consumo energético de uma indústria siderúrgica, ideal para a tarefa de classificar o tipo de carga.
 
-**Referência:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/)
+**Referência:** [UCI Machine Learning Repository]([https://archive.ics.uci.edu/](https://archive.ics.uci.edu/dataset/851/steel+industry+energy+consumption))
 
 ---
 
