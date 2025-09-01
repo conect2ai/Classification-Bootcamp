@@ -50,7 +50,7 @@ O notebook **MultiLabel\_Classification\_Classical\_Models.ipynb** é dividido e
 
 * **Engenharia de Features:** Transformando o problema para predição binária.
 * **Regressão Logística:** Aplicação de um modelo estatístico fundamental.
-* **Métricas Avançadas:** Análise de Precision, Recall, Curva ROC e AUC para classes desbalanceadas.
+* **Métricas:** Análise de Precision, Recall, Curva ROC e AUC para classes desbalanceadas.
 
 ---
 
