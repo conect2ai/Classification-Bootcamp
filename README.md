@@ -31,7 +31,9 @@ O objetivo deste material é guiar os participantes através de um projeto compl
 
 A maneira mais fácil de executar o notebook é utilizando o **Google Colaboratory**, que não exige nenhuma instalação na sua máquina.
 
-### 🔗 Notebook: [Prática de Classificação](https://colab.research.google.com/github/conect2ai/Classification-Bootcamp/blob/main/Notebook/MultiLabel_Classification_Classical_Models.ipynb)  
+### 🔗 Notebook: [Prática de Classificação](https://colab.research.google.com/github/conect2ai/Classification-Bootcamp/blob/main/Notebook/MultiLabel_Classification_Classical_Models.ipynb) 
+### 🔗 Notebook: [Resposta desafio de Classificação Binária](https://colab.research.google.com/github/conect2ai/Classification-Bootcamp/blob/main/Notebook/Resposta_Desafio_Binary_Classification.ipynb)  
+
 
 ---
 
@@ -59,7 +61,7 @@ O notebook **MultiLabel\_Classification\_Classical\_Models.ipynb** é dividido e
 O projeto utiliza o dataset **Steel Industry Energy Consumption** do repositório da **UCI**.
 Ele contém medições de consumo energético de uma indústria siderúrgica, ideal para a tarefa de classificar o tipo de carga.
 
-**Referência:** [UCI Machine Learning Repository]([https://archive.ics.uci.edu/](https://archive.ics.uci.edu/dataset/851/steel+industry+energy+consumption))
+**Referência:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/851/steel+industry+energy+consumption)
 
 ---
 
