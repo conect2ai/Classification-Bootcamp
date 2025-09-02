@@ -18,7 +18,9 @@ O objetivo deste material é guiar os participantes através de um projeto compl
 ```
 ├── Notebook/
 |   |   # Notebook da parte prática da aula     
-│   └── MultiLabel_Classification_Classical_Models.ipynb   
+│   └── MultiLabel_Classification_Classical_Models.ipynb
+|   |   # Notebook com a resposta do desafio prático     
+│   └── Resposta_Desafio_Binary_Classification.ipynb   
 ├── Content/     
 |   |   # Slides da apresentação                      
 │   └── slides_aula_classificacao.pdf     
